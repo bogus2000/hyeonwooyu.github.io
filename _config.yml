@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Jihoon Moon"
-  avatar           : "/images/Jihoon_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/1574913833248.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : Pursuing Ph.D at Purdue # "I am an **amazing** person."
   location         : "West Lafayette, Indiana, USA"
   email            :
