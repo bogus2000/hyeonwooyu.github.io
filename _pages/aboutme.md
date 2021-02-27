@@ -1,6 +1,6 @@
 ---
 title: "Bio"
-permalink: /about/
+permalink: /aboutme/
 toc_sticky: true
 toc_ads : true
 layout: single
