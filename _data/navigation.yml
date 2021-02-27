@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://bogus2000.github.io/
   - title: "About Me"
-    url: /aboutme/
+    url: https://bogus2000.github.io/aboutme
   - title: "Publications"
     url: 
   
