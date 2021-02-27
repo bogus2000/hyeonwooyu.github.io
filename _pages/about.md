@@ -6,9 +6,8 @@ toc_ads : true
 layout: single
 ---
 
-## Jihoon Moon
+## Hyeonwoo Yu
 
-I am a PhD student at Purdue University, Assitive Robotics Technology Laboratory, advised by C. S. George Lee. 
-My research interests are in the intersection of computer vision, deep learning and robotics.
+Postdoctoral research fellow in Robotics Institute, Carnegie Mellon University
 
-[Google scholar](https://www.youtube.com/watch?v=ijK56UQEwwE&t=960s)
+[Google scholar](https://scholar.google.com/citations?user=pa6RBYkAAAAJ&hl=en)
