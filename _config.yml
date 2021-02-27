@@ -98,9 +98,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jihoon Moon"
+  name             : "Hyeonwoo Yu"
   avatar           : "/images/HWY.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Pursuing Ph.D at Purdue # "I am an **amazing** person."
+  bio              : Postdoctoral Research Fellow in Robotics Institute, Carnegie Mellon University # "I am an **amazing** person."
   location         : "Pittsburgh, PA, USA"
   email            :
   links:
