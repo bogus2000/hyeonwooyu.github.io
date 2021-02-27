@@ -22,7 +22,7 @@ locale                   : "en-US"
 title                    : "Hyeonwoo's Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jihoon Moon"
+name                     : "Hyeonwoo Yu"
 description              : "Welcome to my page!"
 url                      : "https://bogus2000.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -99,9 +99,9 @@ analytics:
 # Site Author
 author:
   name             : "Jihoon Moon"
-  avatar           : "/images/1574913833248.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/my.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : Pursuing Ph.D at Purdue # "I am an **amazing** person."
-  location         : "West Lafayette, Indiana, USA"
+  location         : "Pittsburgh, PA, USA"
   email            :
   links:
     - label: "Email"
